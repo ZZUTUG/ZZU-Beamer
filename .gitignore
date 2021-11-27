@@ -133,6 +133,9 @@ acs-*.bib
 *.trc
 *.xref
 
+# DS_store
+.DS_Store
+
 # hyperref
 *.brf
 
