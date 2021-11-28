@@ -14,7 +14,7 @@
 \setlength{\parskip}{6pt}
 \setlength{\parindent}{2em}
 ```
-## 本人也是业余，暂时一个Beamer主题，未来可能做更多Beamer主题。欢迎想加入的ZZUTUG的同学联系我！
+## 本人是业余玩家，以后尽可能多更新。欢迎ZZU的同学[加入](mailto:boss.bingo0e@icloud.com)！
 ## 更多资料
 
 - [Beamer 用户手册](https://github.com/latexstudio/LaTeXPackages-CN/raw/master/beamer/beamer%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%EF%BC%88V3.24%EF%BC%89%E4%B8%AD%E8%AF%91%E7%89%88.pdf)
